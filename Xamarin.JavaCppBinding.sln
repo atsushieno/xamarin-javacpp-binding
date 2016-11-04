@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.JavaCpp", "Xamarin.JavaCpp\Xamarin.JavaCpp.csproj", "{8BA48912-409E-4D8F-80CA-F2F0ED907EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.JavaCppPresets", "Xamarin.JavaCppPresets\Xamarin.JavaCppPresets.csproj", "{2C193765-52B9-4D05-82E6-F4ED97CF798A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.JavaCppPresets.Samples", "Xamarin.JavaCppPresets.Samples\Xamarin.JavaCppPresets.Samples.csproj", "{D78A076C-09D0-45A7-8425-4D2E75529532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BA48912-409E-4D8F-80CA-F2F0ED907EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA48912-409E-4D8F-80CA-F2F0ED907EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA48912-409E-4D8F-80CA-F2F0ED907EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA48912-409E-4D8F-80CA-F2F0ED907EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C193765-52B9-4D05-82E6-F4ED97CF798A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C193765-52B9-4D05-82E6-F4ED97CF798A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C193765-52B9-4D05-82E6-F4ED97CF798A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C193765-52B9-4D05-82E6-F4ED97CF798A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78A076C-09D0-45A7-8425-4D2E75529532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78A076C-09D0-45A7-8425-4D2E75529532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78A076C-09D0-45A7-8425-4D2E75529532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78A076C-09D0-45A7-8425-4D2E75529532}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

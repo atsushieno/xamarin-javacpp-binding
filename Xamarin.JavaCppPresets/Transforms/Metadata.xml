@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<attr path="/api/package[starts-with(@name, 'org.bytedeco.javacpp')]/class" name="obfuscated">false</attr>
+	<attr path="/api/package[@name='org.bytedeco.javacpp']/class[@name='tensorflow.Status']/method[@name='ToString' and count(parameter)=0]" name="managedName">ToStringExt</attr>
+	<attr path="/api/package[@name='org.bytedeco.javacpp']/class[@name='chilitags.Chilitags']" name="managedName">Chillitags.ChilitagsInner</attr>
+	<attr path="/api/package[@name='org.bytedeco.javacpp']/class[@name='tesseract.Tesseract']" name="managedName">Tesseract.TesseractInner</attr>
+</metadata>
